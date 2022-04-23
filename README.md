@@ -1,0 +1,11 @@
+- PHP Syntax
+- PHP Variables
+- PHP Global vs. Static Keywords
+- PHP Data Types
+- PHP Objects
+- PHP Strings
+- PHP Constants
+- PHP Conditional Statements & Operators
+- PHP Loops, Arrays, Multidimensional Arrays
+- PHP Superglobal Variables
+- PHP Forms with Validation
